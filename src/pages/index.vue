@@ -1,7 +1,8 @@
 <template>
-  <HelloWorld />
+  <Package />
 </template>
 
 <script setup>
   //
 </script>
+
